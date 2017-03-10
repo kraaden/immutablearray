@@ -1,0 +1,27 @@
+{
+  "name": "immutablearray",
+  "version": "1.0.0",
+  "description": "A package that provides immutable arrays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc index.ts --target ES5 --declaration true --strictNullChecks true --noImplicitThis true --moduleResolution node --module CommonJS --noImplicitAny true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kraaden/immutablearray.git"
+  },
+  "keywords": [
+    "immutable",
+    "javascript",
+    "array",
+    "typescript"
+  ],
+  "author": "Denys Krasnoshchok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kraaden/immutablearray/issues"
+  },
+  "types": "./index.d.ts",
+  "homepage": "https://github.com/kraaden/immutablearray"
+}
