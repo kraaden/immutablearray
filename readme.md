@@ -16,7 +16,7 @@ alert(immutableArray.length);
 
 ## License
 
-Autocomplete is released under the MIT License.
+`immutablearray` is released under the MIT License.
 
 Copyright (c) 2017 - Denys Krasnoshchok
 
