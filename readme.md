@@ -1,5 +1,5 @@
 
-Immutable array implementation for JavaScript.
+Immutable array implementation for JavaScript and TypeScript.
 
 ## Installation
 
