@@ -1,7 +1,7 @@
 {
   "name": "immutablearray",
   "version": "1.0.0",
-  "description": "A package that provides immutable arrays.",
+  "description": "Immutable array implementation for JavaScript and TypeScript.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
